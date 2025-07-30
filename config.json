@@ -16,7 +16,7 @@
       "name": "如意资源"
     },
     "bfzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "https://bfzyapi.com/api.php/provide/vod",  
       "name": "暴风资源"
     },
     "tyyszy": {
@@ -24,7 +24,7 @@
       "name": "天涯资源"
     },
     "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "api": "http://ffzy5.tv/api.php/provide/vod",  
       "name": "非凡影视",
       "detail": "http://ffzy5.tv"
     },
@@ -32,7 +32,7 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "maotaizy": {  
+    "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
     },
@@ -81,7 +81,7 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "xiaomaomi": {          
+    "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
