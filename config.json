@@ -32,7 +32,7 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "maotaizy": {
+    "maotaizy": {  
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
     },
@@ -81,11 +81,11 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "xiaomaomi": {
+    "xiaomaomi": {          
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "豪华": {
+    "haohua": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
     }
