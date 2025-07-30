@@ -81,13 +81,13 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "xiaomaomi": {    
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
+    "xiaomaomi": {
+      "api": "https://zy.xmm.hk/api.php/provide/vod",  
       "name": "小猫咪资源"
     },
-    "豪华": {            
-      "api": "https://hhzyapi.com/api.php/provide/vod",  
-      "name": "豪华资源"  
+    "豪华": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
     }
   }
 }
